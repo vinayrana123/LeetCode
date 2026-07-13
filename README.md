@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -53,6 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
