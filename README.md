@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/vinayrana123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vinayrana123/LeetCode/tree/master/0066-plus-one) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinayrana123/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
