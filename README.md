@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinayrana123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vinayrana123/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/vinayrana123/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/vinayrana123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinayrana123/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/vinayrana123/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
