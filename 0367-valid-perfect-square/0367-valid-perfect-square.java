@@ -10,7 +10,8 @@ class Solution {
 
         while(left<=right){
             int mid=left+(right-left)/2;
-            long square = (long)mid*mid;
+            long square = (long)mid*mid;//hamne isme ek element liya square vo mid liya ab bs uspe operation perform hogaa
+            // if(mid==num/mid && mid%num==0)
             if(square==num){
                 return true;
             }else if(square>num){
