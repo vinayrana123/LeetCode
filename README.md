@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/vinayrana123/LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vinayrana123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vinayrana123/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vinayrana123/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinayrana123/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/vinayrana123/LeetCode/tree/master/0441-arranging-coins) |
+| [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
