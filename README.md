@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vinayrana123/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinayrana123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Interactive
 |  |
 | ------- |
