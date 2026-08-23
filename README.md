@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/vinayrana123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vinayrana123/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vinayrana123/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/vinayrana123/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vinayrana123/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayrana123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vinayrana123/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vinayrana123/LeetCode/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vinayrana123/LeetCode/tree/master/0561-array-partition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
@@ -217,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/vinayrana123/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
