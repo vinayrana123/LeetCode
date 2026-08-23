@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/vinayrana123/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/vinayrana123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vinayrana123/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vinayrana123/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/vinayrana123/LeetCode/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/vinayrana123/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vinayrana123/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
