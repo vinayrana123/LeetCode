@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinayrana123/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/vinayrana123/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/vinayrana123/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vinayrana123/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vinayrana123/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/vinayrana123/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/vinayrana123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/vinayrana123/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vinayrana123/LeetCode/tree/master/0441-arranging-coins) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vinayrana123/LeetCode/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vinayrana123/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Binary Search
 |  |
