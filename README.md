@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vinayrana123/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vinayrana123/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayrana123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/vinayrana123/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vinayrana123/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/vinayrana123/LeetCode/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vinayrana123/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayrana123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
