@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vinayrana123/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/vinayrana123/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vinayrana123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vinayrana123/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vinayrana123/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vinayrana123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/vinayrana123/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vinayrana123/LeetCode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vinayrana123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/vinayrana123/LeetCode/tree/master/0754-reach-a-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vinayrana123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vinayrana123/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vinayrana123/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vinayrana123/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vinayrana123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/vinayrana123/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
