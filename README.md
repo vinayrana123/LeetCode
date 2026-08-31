@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/vinayrana123/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vinayrana123/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/vinayrana123/LeetCode/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vinayrana123/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vinayrana123/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinayrana123/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/vinayrana123/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/vinayrana123/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/vinayrana123/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vinayrana123/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/vinayrana123/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/vinayrana123/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vinayrana123/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
