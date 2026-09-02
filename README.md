@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vinayrana123/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayrana123/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vinayrana123/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vinayrana123/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/vinayrana123/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayrana123/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinayrana123/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vinayrana123/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vinayrana123/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
