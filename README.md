@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinayrana123/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vinayrana123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vinayrana123/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinayrana123/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vinayrana123/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinayrana123/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vinayrana123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vinayrana123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinayrana123/LeetCode/tree/master/0217-contains-duplicate) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vinayrana123/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vinayrana123/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vinayrana123/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayrana123/LeetCode/tree/master/0169-majority-element) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Backtracking
