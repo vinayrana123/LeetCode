@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vinayrana123/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1859-sorting-the-sentence](https://github.com/vinayrana123/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/vinayrana123/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/vinayrana123/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/vinayrana123/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/vinayrana123/LeetCode/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/vinayrana123/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
