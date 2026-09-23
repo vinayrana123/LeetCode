@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayrana123/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/vinayrana123/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/vinayrana123/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vinayrana123/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayrana123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vinayrana123/LeetCode/tree/master/0455-assign-cookies) |
