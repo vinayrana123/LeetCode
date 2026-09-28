@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayrana123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vinayrana123/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/vinayrana123/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayrana123/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/vinayrana123/LeetCode/tree/master/0657-robot-return-to-origin) |
