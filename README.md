@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinayrana123/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/vinayrana123/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1813-sentence-similarity-iii](https://github.com/vinayrana123/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vinayrana123/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vinayrana123/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vinayrana123/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/vinayrana123/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinayrana123/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1813-sentence-similarity-iii](https://github.com/vinayrana123/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vinayrana123/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/vinayrana123/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vinayrana123/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vinayrana123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/vinayrana123/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/vinayrana123/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/vinayrana123/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
