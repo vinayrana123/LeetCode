@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vinayrana123/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinayrana123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/vinayrana123/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/vinayrana123/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/vinayrana123/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vinayrana123/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Counting
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vinayrana123/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/vinayrana123/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/vinayrana123/LeetCode/tree/master/1528-shuffle-string) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/vinayrana123/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1678-goal-parser-interpretation](https://github.com/vinayrana123/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/vinayrana123/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/vinayrana123/LeetCode/tree/master/1773-count-items-matching-a-rule) |
