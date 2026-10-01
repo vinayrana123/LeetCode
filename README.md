@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vinayrana123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/vinayrana123/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vinayrana123/LeetCode/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/vinayrana123/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayrana123/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/vinayrana123/LeetCode/tree/master/0754-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/vinayrana123/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vinayrana123/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vinayrana123/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/vinayrana123/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayrana123/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/vinayrana123/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayrana123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vinayrana123/LeetCode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/vinayrana123/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayrana123/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/vinayrana123/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vinayrana123/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
