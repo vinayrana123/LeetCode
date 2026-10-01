@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vinayrana123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayrana123/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/vinayrana123/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/vinayrana123/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/vinayrana123/LeetCode/tree/master/1528-shuffle-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/vinayrana123/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -405,4 +406,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinayrana123/LeetCode/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vinayrana123/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
