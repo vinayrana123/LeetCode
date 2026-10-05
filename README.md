@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vinayrana123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinayrana123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vinayrana123/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vinayrana123/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vinayrana123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vinayrana123/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vinayrana123/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vinayrana123/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vinayrana123/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/vinayrana123/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vinayrana123/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/vinayrana123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/vinayrana123/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vinayrana123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinayrana123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinayrana123/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vinayrana123/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayrana123/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vinayrana123/LeetCode/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/vinayrana123/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -449,4 +452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vinayrana123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinayrana123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vinayrana123/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
